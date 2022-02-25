@@ -1,0 +1,134 @@
+[
+	{
+		"name": "MCPvP NA",
+		"ip": "mcpvp.club",
+		"type": "PC"
+	},
+	{
+		"name": "MCPvP EU",
+		"ip": "eu.mcpvp.club",
+		"type": "PC"
+	},
+	{
+		"name": "FireVanilla",
+		"ip": "firevanilla.net",
+		"type": "PC"
+	},
+	{
+		"name": "PvPHub",
+		"ip": "ukpvp.com",
+		"type": "PC"
+	},
+	{
+		"name": "VEN",
+		"ip": "vanillapvp.net",
+		"type": "PC"
+	},
+	{
+		"name": "Vanilla+",
+		"ip": "play.vanillaplus.net",
+		"type": "PC"
+	},
+	{
+		"name": "SteelPvP",
+		"ip": "steelpvp.com",
+		"type": "PC"
+	},
+	{
+		"name": "Fight To Survive",
+		"ip": "fighttosurvive.net",
+		"type": "PC"
+	},
+	{
+		"name": "Purity Vanilla",
+		"ip": "purityvanilla.com",
+		"type": "PC"
+	},
+	{
+		"name": "Loka",
+		"ip": "play.lokamc.com",
+		"type": "PC"
+	},
+	{
+		"name": "Vultex",
+		"ip": "vultex.gg",
+		"type": "PC"
+	},
+	{
+		"name": "Zotticraft",
+		"ip": "mc.zotticraft.net",
+		"type": "PC"
+	},
+	{
+		"name": "Nido",
+		"ip": "play.nidocraft.net",
+		"type": "PC"
+	},
+	{
+		"name": "Leyon",
+		"ip": "play.leyon.uk",
+		"type": "PC"
+	},
+
+	{
+		"name": "USPvP",
+		"ip": "uspvp.org",
+		"type": "PC"
+	},
+	{
+		"name": "HCC",
+		"ip": "play.hardcorecraft.net",
+		"type": "PC"
+	},
+	{
+		"name": "Stray",
+		"ip": "stray.gg",
+		"type": "PC"
+	},
+	{
+		"name": "PvPLegacy",
+		"ip": "play.pvplegacy.net",
+		"type": "PC"
+	},
+	{
+		"name": "DonutSMP",
+		"ip": "donutsmp.net",
+		"type": "PC"
+	},
+	{
+		"name": "SimplyVanilla",
+		"ip": "simplyvanilla.net",
+		"type": "PC"
+	},
+	{
+		"name": "Waracons",
+		"ip": "waracons.net",
+		"type": "PC"
+	},
+	{
+		"name": "Eternal",
+		"ip": "pvp.eternalanarchy.xyz",
+		"type": "PC"
+	},
+	{
+		"name": "SimPvP",
+		"ip": "simpvp.net",
+		"type": "PC"
+	},
+	{
+		"name": "EUPvP",
+		"ip": "eupvp.net",
+		"type": "PC"
+	},
+	{
+		"name": "BlotCraft",
+		"ip": "blotcraft.net",
+		"type": "PC"
+	},
+
+	{
+		"name": "sVanilla",
+		"ip": "svanilla.net",
+		"type": "PC"
+	}
+]
