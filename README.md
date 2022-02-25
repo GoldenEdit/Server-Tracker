@@ -4,4 +4,5 @@ This repository contains a list for servers to be displayed on the server tracke
 The server tracker is viewable at:
 
 https://tracker.goldenedit.dev
+
 https://tracker.vanillapvp.net
