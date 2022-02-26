@@ -10,7 +10,8 @@ https://tracker.vanillapvp.net
 # Adding your own server
 To add your own server please make a Pull request.
 
-Here is a short guide on how to format your server to add:
+Here is a short guide on how to format your servers listing to add:
+
 ```
   	},
 	{
@@ -19,3 +20,5 @@ Here is a short guide on how to format your server to add:
 		"type": "PC" 
 	}
 ```
+
+Make sure to edit the line above where you would like to add your servers listing so that it includes a comma (JSON formmating)
