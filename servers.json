@@ -60,11 +60,6 @@
 		"type": "PC"
 	},
 	{
-		"name": "Nido",
-		"ip": "play.nidocraft.net",
-		"type": "PC"
-	},
-	{
 		"name": "Leyon",
 		"ip": "play.leyon.uk",
 		"type": "PC"
@@ -76,18 +71,13 @@
 		"type": "PC"
 	},
 	{
-		"name": "HCC",
-		"ip": "play.hardcorecraft.net",
-		"type": "PC"
-	},
-	{
-		"name": "Stray",
+		"name": "Stray NA",
 		"ip": "stray.gg",
 		"type": "PC"
 	},
 	{
-		"name": "PvPLegacy",
-		"ip": "play.pvplegacy.net",
+		"name": "Stray EU",
+		"ip": "eu.stray.gg",
 		"type": "PC"
 	},
 	{
@@ -125,6 +115,32 @@
 		"ip": "blotcraft.net",
 		"type": "PC"
 	},
+	{
+		"name": "LuxePvP",
+		"ip": "luxepvp.net",
+		"type": "PC"
+	},
+	{
+		"name": "SimplyVanilla",
+		"ip": "simplyvanilla.co",
+		"type": "PC"
+	},
+	{
+		"name": "ChickenCraft",
+		"ip": "chickencraft.nl",
+		"type": "PC"
+	},
+	{
+		"name": "Arcadia",
+		"ip": "play.mcarcadia.com",
+		"type": "PC"
+	},
+	{
+		"name": "West Survival",
+		"ip": "westsurvival.org",
+		"type": "PC"
+	},
+
 	{
 		"name": "sVanilla",
 		"ip": "svanilla.net",
